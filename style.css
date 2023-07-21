@@ -1,0 +1,42 @@
+.qr {
+    border-radius: 8%;
+    width: 300px;
+    height: 300px;
+    padding: 13px;
+  }
+.main
+{
+    height: 500px;
+    width: 325px;
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 3%;
+    text-align: center;
+    
+}
+body
+{
+    background-color:hsl(217, 68%, 80%);
+    display:flex;
+    justify-content: center;
+    padding-top: 10%;
+    
+
+}
+#FL
+{
+    font-size: 22px;
+    font-family:'Outfit',sans-serif ;
+    margin: 0 auto;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-weight: 700;
+}
+
+#Paragraph
+{
+    font-size: 15px;
+    font-family:'Outfit' ;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-weight: 400;
+}
